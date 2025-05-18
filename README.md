@@ -15,11 +15,11 @@ I'm a Computer Science student passionate about building intelligent systems, so
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Live Demo |
-|--------|-------------|-------|-----------|
-| ♟️ Chess AI | A custom chess engine using NegaMax, Quiescence Search, and positional evaluation | Python, Pygame 
-| 🏨 Hotel Booking App | CSV-based booking system with live search, booking logic, and user-friendly UI | Node.js, HTML, JS 
-| 📧 Secure Email App | A web app for secure messaging with login auth and asynchronous fetch API | PHP / Node.js, MySQL
+| Project | Description | Stack |
+|--------|-------------|-------|
+| ♟️ Chess AI | A custom chess engine using NegaMax, Quiescence Search, and positional evaluation | Python, Pygame |
+| 🏨 Hotel Booking App | CSV-based booking system with live search, booking logic, and user-friendly UI | Node.js, HTML, JS |
+| 📧 Secure Email App | A web app for secure messaging with login auth and asynchronous fetch API | PHP / Node.js, MySQL |
 | 🛡️ DDoS Detector | Analyzed PCAP traffic to classify and trace back attack sources | Python, Jupyter |
 
 ---
